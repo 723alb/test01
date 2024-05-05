@@ -1,6 +1,6 @@
 Hello! World!!!
 12345
 This is a MAGIC!!!
-sdvbc/ubsc
+Line from user2
 
 =================This line from user1
